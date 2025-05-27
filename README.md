@@ -12,7 +12,7 @@ A passionate self-taught programmer on a mission to build life-changing software
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ## 📈 GitHub Stats
-![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffordDev&show_icons=true&theme=radical)
+![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffordWilsonK&show_icons=true&theme=radical)
 
 ## ✨ Featured Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CliffordDev&repo=Goshenverse)](https://github.com/CliffordDev/Goshenverse)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CliffordWilsonK&repo=ChurchManagementSystemProject)](https://github.com/CliffordWilsonK/ChurchManagementSystemProject)
