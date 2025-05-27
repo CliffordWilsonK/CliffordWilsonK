@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Clifford!
+A passionate self-taught programmer on a mission to build life-changing software.
 
-<!--
-**CliffordWilsonK/CliffordWilsonK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Django, React, and Solana**
+- 🧠 Exploring **blockchain, AI, and cloud technologies**
+- ✝️ Founder of TeensForChrist: Empowering youth for God
+- ⚡ Fun fact: I play the keyboard using only the C Major scale!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Clifford's GitHub stats](https://github-readme-stats.vercel.app/api?username=CliffordDev&show_icons=true&theme=radical)
+
+## ✨ Featured Project
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CliffordDev&repo=Goshenverse)](https://github.com/CliffordDev/Goshenverse)
