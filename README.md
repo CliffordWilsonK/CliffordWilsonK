@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Clifford!
 A passionate self-taught programmer on a mission to build life-changing software.
 
-- 🌱 I’m currently learning **Django, React, and Solana**
+- 🌱 I’m currently learning **Django, React, and Soldity**
 - 🧠 Exploring **blockchain, AI, and cloud technologies**
 - ✝️ Founder of TeensForChrist: Empowering youth for God
 - ⚡ Fun fact: I play the keyboard using only the C Major scale!
