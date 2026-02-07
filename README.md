@@ -32,7 +32,7 @@ I am a Computer Science & Engineering student focused on **backend architecture*
 
 <div align="center">
   <br/>
-  <a href="mailto:clifford@cliffordwilson.dev">
+  <a href="mailto:cliffordwilsonk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://cliffordwilson.dev">
