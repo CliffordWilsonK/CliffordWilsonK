@@ -25,7 +25,7 @@ I am a Computer Science & Engineering student focused on **backend architecture*
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CliffordWilsonK&theme=transparent&hide_border=true&ring=009688&fire=009688&currStreakLabel=009688" alt="Clifford's Streak" />
+  <img src="https://cliffords-stats.vercel.app/api?user=CliffordWilsonK&theme=transparent&hide_border=true&ring=009688&fire=009688&currStreakLabel=009688" alt="Clifford's Streak" />
 </div>
 
 <div align="center">
