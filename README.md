@@ -25,8 +25,6 @@ I am a Computer Science & Engineering student focused on **backend architecture*
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CliffordWilsonK&show_icons=true&theme=transparent&hide_border=true&title_color=009688&text_color=9f9f9f&icon_color=009688" alt="Clifford's GitHub Stats" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=CliffordWilsonK&theme=transparent&hide_border=true&ring=009688&fire=009688&currStreakLabel=009688" alt="Clifford's Streak" />
 </div>
 
