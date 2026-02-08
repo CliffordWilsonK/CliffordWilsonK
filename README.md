@@ -2,7 +2,7 @@
 
 ### Computer Science Student @ UMaT | Full Stack & Blockchain Developer
 
-I am a Computer Science & Engineering student focused on **backend architecture**, **distributed systems**, and **scalable web applications**. I combine academic rigor with practical development to build software that works reliably under load.
+I am a Computer Science & Engineering student focused on **backend architecture**, **API design and integration**, and **scalable web applications**. I combine academic rigor with practical development to build software that works reliably under load.
 
 - 🔭 **Currently working on:** Advanced System Architecture & Algorithms
 - 🌱 **Deep diving into:** Machine Learning Pipelines & Smart Contract Security
